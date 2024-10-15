@@ -1,6 +1,14 @@
 # Intro
 
-I am the co-founder and CTO of [Promptfoo](https://promptfoo.dev), where we're building open-source tools to evaluate, find, and fix vulnerabilities in LLMs. Before Promptfoo, I was the VP of Engineering at [SmileID](https://www.usesmileid.com), where I led the development of tools that have helped over 170 million people in Africa gain access to financial services. I also co-founded [Arthena](https://arthena.com) and [Matroid](https://matroid.com).
+Hi, I'm an IT professional with 4+ years of experience in software engineering.
+I graduated from [Jatiya Kabi Kazi Nazrul University, Trishal, Mymensingh, Bangladesh](https://jkkniu.edu.bd/),
+and I am currently working as Senior Officer-IT (AP) at [Janata Bank PLC](https://www.jb.com.bd/),
+where I manage and enhance banking applications while driving IT solutions across
+the organization. Previously, I worked as a Software Engineer at
+[CIS Tech Ltd.](https://cistechltd.com), gaining expertise in backend services, mobile applications, and Clean architecture
+including databases. My focus is on delivering efficient, scalable applications
+through a collaborative, solution-driven approach.
+
 
 In my spare time, I enjoy investing in people and ideas through a [small venture fund](https://skepticalinvestments.biz), focusing on projects with high social impact. If you think I can be helpful to you or your cause, or if you're interested in collaborating, feel free to get in touch.
 

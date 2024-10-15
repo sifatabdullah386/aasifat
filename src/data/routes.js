@@ -4,10 +4,10 @@ const routes = [
     label: 'Md. Abdullah Al Sifat',
     path: '/',
   },
-  {
-    label: 'About',
-    path: '/about',
-  },
+  // {
+  //   label: 'About',
+  //   path: '/about',
+  // },
   {
     label: 'Resume',
     path: '/resume',

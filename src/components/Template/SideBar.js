@@ -23,17 +23,11 @@ const SideBar = () => (
     <section className="blurb">
       <h2>About</h2>
       <p>
-        Hi, I&apos;m an IT professional with 4+ years of experience in software engineering.
-        I graduated from
-        <a href="https://jkkniu.edu.bd/" target="_blank" rel="noopener noreferrer">Jatiya Kabi Kazi Nazrul University, Trishal, Mymensingh, Bangladesh</a>,
-        and I am currently working as Senior Officer-IT (AP) at
-        <a href="https://www.jb.com.bd/" target="_blank" rel="noopener noreferrer">Janata Bank PLC</a>,
-        where I manage and enhance banking applications while driving IT solutions across
-        the organization. Previously, I worked as a Software Engineer at
-        <a href="https://cistechltd.com" target="_blank" rel="noopener noreferrer">CIS Tech Ltd.</a>,
-        gaining expertise in backend services, mobile applications, and Clean architecture
-        including databases. My focus is on delivering efficient, scalable applications
-        through a collaborative, solution-driven approach.
+        Currently employeed as Senior Officer-IT (AP) at
+        <a href="https://www.jb.com.bd/" target="_blank" rel="noopener noreferrer"> Janata Bank PLC. </a>,
+        developing banking softwares. Previously, I worked as a Software Engineer at
+        <a href="https://cistechltd.com" target="_blank" rel="noopener noreferrer"> CIS Tech Ltd. </a>,
+        gaining expertise in backend services, mobile applications etc.
       </p>
       <ul className="actions">
         <li>
