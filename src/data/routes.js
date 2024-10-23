@@ -16,14 +16,14 @@ const routes = [
     label: 'Projects',
     path: '/projects',
   },
-  {
-    label: 'Research',
-    path: '/research',
-  },
-  {
-    label: 'Blog',
-    path: '/blog',
-  },
+  // {
+  //   label: 'Research',
+  //   path: '/research',
+  // },
+  // {
+  //   label: 'Blog',
+  //   path: '/blog',
+  // },
   {
     label: 'Contact',
     path: '/contact',

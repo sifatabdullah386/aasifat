@@ -25,34 +25,14 @@ const skills = [
     category: ['Tools', 'Languages'],
   },
   {
-    title: 'Amazon Web Services',
-    competency: 4,
-    category: ['Web Development', 'Tools'],
-  },
-  {
-    title: 'Heroku',
-    competency: 2,
-    category: ['Web Development', 'Tools'],
-  },
-  {
     title: 'MongoDB',
     competency: 3,
     category: ['Web Development', 'Databases'],
   },
   {
-    title: 'ElasticSearch',
-    competency: 2,
-    category: ['Web Development', 'Databases'],
-  },
-  {
-    title: 'PostgreSQL/SQLite3/SQL/Redshift',
+    title: 'SQLite',
     competency: 4,
-    category: ['Web Development', 'Databases', 'Languages'],
-  },
-  {
-    title: 'Redis',
-    competency: 3,
-    category: ['Web Development', 'Databases'],
+    category: ['Web Development', 'Databases', 'Languages', 'Mobile App Developer'],
   },
   {
     title: 'Data Mining',
@@ -65,22 +45,7 @@ const skills = [
     category: ['Web Development', 'Javascript'],
   },
   {
-    title: 'D3',
-    competency: 2,
-    category: ['Web Development', 'Javascript'],
-  },
-  {
-    title: 'Flask',
-    competency: 3,
-    category: ['Web Development', 'Python'],
-  },
-  {
-    title: 'FastAPI',
-    competency: 3,
-    category: ['Web Development', 'Python'],
-  },
-  {
-    title: 'Git/Mercurial',
+    title: 'Git',
     competency: 3,
     category: ['Tools'],
   },
@@ -103,11 +68,6 @@ const skills = [
     title: 'Docker',
     competency: 3,
     category: ['Tools', 'Data Engineering'],
-  },
-  {
-    title: 'AWS Lambda',
-    competency: 3,
-    category: ['Tools', 'Web Development'],
   },
   {
     title: 'Numpy',
@@ -150,33 +110,18 @@ const skills = [
     category: ['Languages', 'Python', 'ML Engineering'],
   },
   {
-    title: 'Ruby',
-    competency: 2,
+    title: 'Java',
+    competency: 5,
     category: ['Languages'],
   },
   {
-    title: 'Ruby on Rails',
-    competency: 3,
-    category: ['Web Development', 'Languages'],
-  },
-  {
-    title: 'C++',
-    competency: 1,
-    category: ['Languages'],
-  },
-  {
-    title: 'Julia',
-    competency: 2,
+    title: 'C',
+    competency: 5,
     category: ['Languages'],
   },
   {
     title: 'MATLAB',
-    competency: 2,
-    category: ['Languages'],
-  },
-  {
-    title: 'R',
-    competency: 2,
+    competency: 3,
     category: ['Languages'],
   },
   {

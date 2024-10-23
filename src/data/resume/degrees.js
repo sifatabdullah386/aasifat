@@ -1,15 +1,15 @@
 const degrees = [
   {
-    school: 'Stanford University',
-    degree: 'M.S. Computational and Mathematical Engineering',
-    link: 'https://stanford.edu',
-    year: 2016,
+    school: 'Jatiya Kabi Kazi Nazrul Islam University, Mymensingh, Bangladesh.',
+    degree: 'M.Sc.(Engg.) in Computer Science & Engineering',
+    link: 'https://jkkniu.edu.bd',
+    year: 2023,
   },
   {
-    school: 'University at Buffalo',
-    degree: 'B.S. Electrical Engineering, Computer Engineering',
-    link: 'https://buffalo.edu',
-    year: 2012,
+    school: 'Jatiya Kabi Kazi Nazrul Islam University, Mymensingh, Bangladesh.',
+    degree: 'B.Sc.(Engg.) in Computer Sciennce & Engineering',
+    link: 'https://jkkniu.edu.bd',
+    year: 2018,
   },
 ];
 

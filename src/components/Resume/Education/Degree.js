@@ -4,9 +4,9 @@ import PropTypes from 'prop-types';
 const Degree = ({ data }) => (
   <article className="degree-container">
     <header>
-      <h4 className="degree">{data.degree}</h4>
+      <h3 className="degree">{data.degree}, {data.year}</h3>
       <p className="school">
-        <a href={data.link}>{data.school}</a>, {data.year}
+        <a href={data.link}>{data.school}</a>
       </p>
     </header>
   </article>
