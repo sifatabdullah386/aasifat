@@ -1,6 +1,6 @@
 const courses = [
   {
-    title: 'Computer Fundamentals and Programming Basics',
+    title: 'Computer Fundamentals',
     number: 'CSE 101',
     link: '',
     university: 'JKKNIU',

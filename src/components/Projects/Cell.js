@@ -1,6 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import dayjs from 'dayjs';
+// import Chip from '@mui/material/Chip';
 
 const Cell = ({ data }) => (
   <div className="cell-container">
@@ -19,6 +20,11 @@ const Cell = ({ data }) => (
       <div className="description">
         <p>{data.desc}</p>
       </div>
+      {/* <div className="technologies">
+        <p>{data.technology.map((tech, index) => (
+          key={index} label={tech} style={{ margin: '5px' }}
+        ))}</p>
+      </div> */}
     </article>
   </div>
 );
@@ -30,6 +36,7 @@ Cell.propTypes = {
     image: PropTypes.string.isRequired,
     date: PropTypes.string.isRequired,
     desc: PropTypes.string.isRequired,
+    // technology: PropTypes.arrayOf(PropTypes.string).isRequired,
   }).isRequired,
 };
 

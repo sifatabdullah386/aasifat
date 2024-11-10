@@ -61,7 +61,7 @@
   }
 
   .skills {
-    margin-top: 2em;
+    margin-top: 0em;
     .title {
       text-align: center;
       p {
@@ -95,7 +95,7 @@
   .degree {
     margin-bottom: 0.1em;
     text-transform: none;
-    letter-spacing: 0.16em;
+    letter-spacing: 0.05em;
     font-size: 0.8em;
   }
 
@@ -111,10 +111,11 @@
 }
 .courses .course-name {
   display: inline;
-  font-family: "Poppins", Helvetica, sans-serif;
+  font-family: "Poppins";
+  // font-family: "Poppins", Helvetica, sans-serif;
   font-size: 0.7em;
   font-weight: 400;
-  letter-spacing: 0.25em;
+  letter-spacing: 0.05em;
   line-height: 2.5;
   margin-top: -1em;
   text-transform: uppercase;
