@@ -1,10 +1,11 @@
 // TODO Add a couple lines about each project
-const data = [
+const projects = [
   {
     title: '4 Sale & Buy',
     subtitle: 'Buy and Sell Anything with Ease, Your Marketplace for Everything',
     category: ['Mobile App Development'],
     technology: ['Java', 'XML', 'Retrofit2', 'Glide'],
+    link: 'https://www.easy2manage.co.uk/',
     image: '/images/projects/4sale_buy.png',
     date: '2023-11-20',
     desc:
@@ -13,7 +14,7 @@ const data = [
   {
     title: 'Easy2Manage',
     subtitle: 'Effortless Property Management, Your Trusted Partner in Landlord Services',
-    category: ['Mobile App Development'],
+    category: ['Mobile App Development', 'Frontend Development'],
     technology: ['Java', 'XML', 'Retrofit2', 'Glide'],
     link: 'https://www.easy2manage.co.uk/',
     image: '/images/projects/harvest.jpg',
@@ -24,7 +25,7 @@ const data = [
   {
     title: 'Yemeni Dokkan',
     subtitle: 'A kickstarter funded potato powered weather balloon.',
-    category: ['Mobile App Development'],
+    category: ['Backend Development'],
     technology: ['Java', 'XML', 'Retrofit2', 'Glide'],
     link: 'http://www.spacepotato.org',
     image: '/images/projects/spacepotato.jpg',
@@ -39,6 +40,7 @@ const data = [
     subtitle: 'A convolutional neural network to classify cats! (and dogs)',
     category: ['Mobile App Development'],
     technology: ['Java', 'XML', 'Retrofit2', 'Glide'],
+    link: 'https://www.easy2manage.co.uk/',
     image: '/images/projects/spacepotato.jpg',
     date: '2015-05-15',
     desc:
@@ -46,6 +48,12 @@ const data = [
       + 'Over 60,000 cats were classified before server bills made the project too expensive '
       + 'to continue hosting.',
   },
-];
+].map((project) => ({ ...project, category: project.category.sort() }));
 
-export default data;
+const categories = [...new Set(projects.flatMap(({ category }) => category))]
+  .sort()
+  .map((category) => ({
+    name: category,
+  }));
+
+export { categories, projects };
