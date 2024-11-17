@@ -18,14 +18,11 @@ const Projects = () => (
             <Link to="/projects">Projects</Link>
           </h2>
           <p>A few of my projects that I&apos;m not too shy to share</p>
-          {Object.entries(sections).map(([name, Section]) => (
-            <Section key={name} />
-          ))}
         </div>
       </header>
-      {/* {data.map((project) => (
-        <Cell data={project} key={project.title} />
-      ))} */}
+      {Object.entries(sections).map(([name, Section]) => (
+        <Section key={name} />
+      ))}
     </article>
   </Main>
 );

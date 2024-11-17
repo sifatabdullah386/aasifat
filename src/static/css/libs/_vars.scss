@@ -11,28 +11,30 @@ $duration: (
 
 // Size.
 $size: (
-  element-height: 2.75em,
-  element-margin: 2em,
-  section-spacing: 3em,
-  section-spacing-small: 1.5em,
-  menu: 25em,
+  element-height: 1.75em,
+  element-margin: 1em,
+  section-spacing: 2em,
+  section-spacing-small: 0.5em,
+  menu: 15em,
 );
 
 // Font.
 $font: (
   family: (
-    "Source Sans Pro",
-    Helvetica,
-    sans-serif,
+    // "Source Sans Pro",
+    "Poppins",
+    // Helvetica,
+    // sans-serif,
   ),
   family-fixed: (
-    "Courier New",
-    monospace,
+    "Poppins",
+    // "Courier New",
+    // monospace,
   ),
   family-heading: (
     "Poppins",
-    Helvetica,
-    sans-serif,
+    // Helvetica,
+    // sans-serif,
   ),
   weight: 400,
   weight-bold: 700,
