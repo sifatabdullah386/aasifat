@@ -46,13 +46,13 @@ const projects = [
       'Based on hotel staff task completion over the housekeeping app',
   },
   {
-    title: 'Golden Treasure Inc',
+    title: 'Golden Treasure Inc.',
     subtitle: 'Based on financial supporting app',
     category: ['Mobile App Development'],
     technology: ['XML', 'Java', 'Volley', 'SQLite', 'Material UI/UX', 'Android Chart', 'Stripe'],
     link: 'https://drive.google.com/file/d/1BLmTDRyYvCTo9QkbTFUd9peOINfVxWIw/view',
     image: '/images/projects/gti.png',
-    date: '2023-01-15',
+    date: '2023-12-25',
     desc:
       'Based on financial supporting app',
   },
