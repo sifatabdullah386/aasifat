@@ -13,9 +13,13 @@ $duration: (
 $size: (
   element-height: 1.75em,
   element-margin: 1em,
+  // section-margin: 30px,
+  // section-padding:30px,
   section-spacing: 2em,
+  border-radius: 15px,
   section-spacing-small: 0.5em,
   menu: 15em,
+
 );
 
 // Font.
@@ -42,17 +46,25 @@ $font: (
   weight-heading-bold: 800,
   weight-heading-extrabold: 900,
   kerning-heading: 0.25em,
+  font-samll: 10px,
+  font-medium: 12px,
+  font-large: 16px,
+  font-extra-large: 20px,
+  letter-space-small: 1px,
+  letter-space-medium: 1.5px,
+  letter-space-large: 2px
 );
 
 // Palette.
 $palette: (
-  bg: #ffffff,
-  bg-alt: #f4f4f4,
+  bg: #efefef,
+  bg-alt: #efefef,
   fg: #646464,
   fg-bold: #3c3b3b,
   fg-light: #aaaaaa,
   border: rgba(160, 160, 160, 0.3),
   border-bg: rgba(160, 160, 160, 0.075),
   border-alt: rgba(160, 160, 160, 0.65),
-  accent: #2e59ba,
+  accent: #E57373,
+  bg-white:#ffffff
 );

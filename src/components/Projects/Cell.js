@@ -35,6 +35,7 @@ Cell.propTypes = {
     link: PropTypes.string,
     image: PropTypes.string.isRequired,
     date: PropTypes.string.isRequired,
+    workedfor: PropTypes.string.isRequired,
     desc: PropTypes.string.isRequired,
     // technology: PropTypes.arrayOf(PropTypes.string).isRequired,
   }).isRequired,

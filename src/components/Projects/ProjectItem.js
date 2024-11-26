@@ -6,9 +6,14 @@ const ProjectItem = ({ data }) => (
   <div className="cell-container">
     <article className="mini-post">
       <header>
-        <h3>
-          <a href={data.link}>{data.title}</a>
-        </h3>
+        <div className="cell-header">
+          <h3>
+            <a href={data.link}>{data.title}</a>
+          </h3>
+          <h5 className="worked-for">
+            <a href={data.workedurl}>{data.workedfor}</a>
+          </h5>
+        </div>
         <time className="published">
           {dayjs(data.date).format('MMMM, YYYY')}
         </time>
@@ -37,6 +42,8 @@ ProjectItem.propTypes = {
     image: PropTypes.string.isRequired,
     date: PropTypes.string.isRequired,
     desc: PropTypes.string.isRequired,
+    workedfor: PropTypes.string.isRequired,
+    workedurl: PropTypes.string.isRequired,
     technology: PropTypes.arrayOf(PropTypes.string).isRequired,
   }).isRequired,
 };

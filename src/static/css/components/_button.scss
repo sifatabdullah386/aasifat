@@ -30,26 +30,31 @@ button,
   font-size: 0.6em;
   font-weight: _font(weight-heading-bold);
   height: _size(element-height) * 1.75;
-  letter-spacing: _font(kerning-heading);
+  letter-spacing: 1.5px;
   line-height: _size(element-height) * 1.75;
   padding: 0 2.5em;
+  margin-right: 7px;
   text-align: center;
   text-decoration: none;
   text-transform: uppercase;
   white-space: nowrap;
+  border-radius: 15px;
 
   &:hover {
     box-shadow: inset 0 0 0 1px _palette(accent);
     color: _palette(accent) !important;
+    border-radius: 15px;
 
     &:active {
       background-color: transparentize(_palette(accent), 0.95);
+      border-radius: 15px;
     }
   }
 
   &:before,
   &:after {
     color: _palette(fg-light);
+    border-radius: 15px;
     position: relative;
   }
 

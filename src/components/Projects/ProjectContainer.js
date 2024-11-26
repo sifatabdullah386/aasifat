@@ -62,8 +62,8 @@ const ProjectContainer = ({ projects, categories }) => {
 
   return (
     <div className="project-category">
-      <div className="skill-button-container">{getButtons()}</div>
-      <div className="skill-row-container">{getRows()}</div>
+      <div className="project-button-container">{getButtons()}</div>
+      <div className="projects-row-container">{getRows()}</div>
     </div>
   );
 };
@@ -75,6 +75,7 @@ ProjectContainer.propTypes = {
       link: PropTypes.string,
       image: PropTypes.string,
       date: PropTypes.string,
+      workedfor: PropTypes.string,
       desc: PropTypes.string,
       technology: PropTypes.arrayOf(PropTypes.string),
       category: PropTypes.arrayOf(PropTypes.string),
