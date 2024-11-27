@@ -22,7 +22,7 @@
     .title {
       background: _palette(bg-white);
       border: solid 0px _palette(border);
-      border-radius: 10px;
+      border-radius: 15px;
       margin: 0;
       box-shadow: 5px;
       @include vendor("flex-grow", "1");

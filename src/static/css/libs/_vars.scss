@@ -45,7 +45,7 @@ $font: (
   weight-heading: 400,
   weight-heading-bold: 800,
   weight-heading-extrabold: 900,
-  kerning-heading: 0.25em,
+  kerning-heading: 1.2px,
   font-samll: 10px,
   font-medium: 12px,
   font-large: 16px,
@@ -57,14 +57,14 @@ $font: (
 
 // Palette.
 $palette: (
-  bg: #efefef,
-  bg-alt: #efefef,
+  bg: #E6EDF5,
+  bg-alt: #E6EDF5,
   fg: #646464,
   fg-bold: #3c3b3b,
   fg-light: #aaaaaa,
   border: rgba(160, 160, 160, 0.3),
   border-bg: rgba(160, 160, 160, 0.075),
   border-alt: rgba(160, 160, 160, 0.65),
-  accent: #E57373,
+  accent: #01337A,
   bg-white:#ffffff
 );

@@ -132,7 +132,7 @@ const projects = [
       'Based on university website design',
   },
   {
-    title: 'AASifat',
+    title: 'Md AASifat',
     subtitle: 'My portfolio frontend site for the purpose of learning react.js',
     category: ['Frontend Development'],
     technology: ['HTML', 'CSS', 'Javascript', 'Node.js', 'React', 'JSX', 'useState', 'Router', 'Hooks', 'SCSS'],

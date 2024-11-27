@@ -17,7 +17,7 @@ const work = [
     position: 'Senior Officer-IT (AP)',
     url: 'https://www.jb.com.bd/',
     startDate: '2024-02-01',
-    summary: 'Responsible for developing, managing, and maintaining software applications that support the bank operational and business processes. My role involves working on IT projects, ensuring the efficiency and security of applications, and collaborating with other departments to implement technology solutions aligned with organizational goals.',
+    summary: '',
     highlights: [
       'Managing application systems within the bank, ensuring their smooth operation, including deployment, updates, and troubleshooting.',
       'Providing technical support for software and applications used across the banking that affect daily banking operations.',

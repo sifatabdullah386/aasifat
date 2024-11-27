@@ -1,0 +1,25 @@
+// About page (/about)
+
+.about-description {
+  background: #ffff;
+  border-radius: 15px;
+  padding: 35px;
+  margin-top: 30px;
+
+  section{
+    h2{
+      font-size: 16px;
+    }
+
+    p{
+      font-size: 12px;
+      margin-bottom: 20px;
+    }
+
+    ul{
+      li{
+        font-size: 12px;
+      }
+    }
+  }
+}

@@ -28,8 +28,3 @@ through a collaborative, solution-driven approach with high social impact. If yo
 - Embracing curiosity and a lifelong love of learning.
 - Committing to constant growth and self-improvement.
 
-<!-- # Websites from People I Admire -->
-
-<!-- - [Alex Peysakhovich](http://alexpeys.github.io/)
-- [Chris Lengerich](http://www.chrislengerich.com/) -->
-
