@@ -49,6 +49,7 @@
       @include padding(_size(section-spacing) * 1.25, _size(section-spacing));
       border-left: solid 0px _palette(border);
       min-width: 17em;
+      padding: 30px;
       text-align: right;
       width: 17em;
 
