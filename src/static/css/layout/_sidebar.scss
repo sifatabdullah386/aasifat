@@ -28,12 +28,12 @@
   }
 
   @include breakpoint(large) {
-    border-top: solid 0px _palette(border);
     margin: _size(section-spacing) 0 0 0;
-    min-width: 0;background: #ffffff;
+    min-width: 0;
+    background: #ffffff;
     border-radius: 15px;
     padding: 30px;
-    padding: _size(section-spacing) 0 0 0;
+    // padding: _size(section-spacing) 0 0 0;
     width: 100%;
   }
 }
