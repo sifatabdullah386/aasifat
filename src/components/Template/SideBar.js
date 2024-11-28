@@ -45,10 +45,9 @@ const SideBar = () => (
     </section>
 
     <section id="footer">
-      {/* <ContactIcons />
       <p className="copyright">
-        &copy; Michael D&apos;Angelo <Link to="/">mldangelo.com</Link>.
-      </p> */}
+        &copy; A A Sifat <Link to="/">aasifat.netlify.app</Link>.
+      </p>
     </section>
   </section>
 );
