@@ -20,7 +20,7 @@
     border-top: solid 0px _palette(border);
 
     p {
-      font-size: 12px;
+      font-size: 14px;
       margin: 0;
       padding-top: 10px;
       padding-bottom: 10px;
@@ -45,7 +45,7 @@
     color: white;
     outline: 0;
     border: 0;
-    font-size: 9px;
+    font-size: 10px;
     font-style: normal;
     letter-spacing: 1px;
     border-radius: 15px;
@@ -110,7 +110,7 @@
     .published {
       display: block;
       font-family: _font(family-heading);
-      font-size: 10px;
+      font-size: 12px;
       font-weight: _font(weight-heading);
       letter-spacing: 0.5px;
       // letter-spacing: _font(kerning-heading);

@@ -15,7 +15,7 @@ const SideBar = () => (
         <h3>Md. Abdullah Al Sifat</h3>
         <h4>Full Stack Software Engineer</h4>
         <p>
-          <a href="sifatabdullah386@gmail.com">sifatabdullah386@gmail.com</a>
+          <a href="mailto:sifatabdullah386@gmail.com">sifatabdullah386@gmail.com</a>
         </p>
       </header>
     </section>

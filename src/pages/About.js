@@ -57,11 +57,6 @@ const About = () => {
               <li><a href="https://youtube.com/" target="_blank" rel="noopener noreferrer"> Videography </a></li>
               <li>Graphic Design</li>
               <li>Cooking</li>
-              <li>Learning</li>
-              <li>Learning</li>
-              <li>Learning</li>
-              <li>Learning</li>
-              <li>Learning</li>
             </ul>
             <h2>I Dream Of</h2>
             <ul>
