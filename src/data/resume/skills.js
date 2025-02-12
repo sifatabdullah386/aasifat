@@ -45,6 +45,11 @@ const skills = [
     category: ['Databases', 'Backend Development'],
   },
   {
+    title: 'Postgres',
+    competency: 5,
+    category: ['Databases', 'Backend Development'],
+  },
+  {
     title: 'Oracle',
     competency: 3,
     category: ['Databases', 'Backend Development'],
@@ -85,6 +90,11 @@ const skills = [
     category: ['Framework', 'Backend Development'],
   },
   {
+    title: 'Hapi.js',
+    competency: 5,
+    category: ['Framework', 'Backend Development'],
+  },
+  {
     title: 'Laravel',
     competency: 5,
     category: ['Framework', 'Backend Development'],
@@ -97,16 +107,6 @@ const skills = [
   {
     title: 'Tailwind',
     competency: 1,
-    category: ['Framework', 'Frontend Development'],
-  },
-  {
-    title: 'Express.js',
-    competency: 1,
-    category: ['Framework', 'Backend Development'],
-  },
-  {
-    title: 'Next.JS',
-    competency: 3,
     category: ['Framework', 'Frontend Development'],
   },
   {
@@ -133,6 +133,16 @@ const skills = [
     title: 'React',
     competency: 3,
     category: ['Library', 'Frontend Development'],
+  },
+  {
+    title: 'Angular',
+    competency: 3,
+    category: ['Framework', 'Frontend Development'],
+  },
+  {
+    title: 'Jasper',
+    competency: 3,
+    category: ['Tools'],
   },
   {
     title: 'MP Android Chart',
@@ -195,6 +205,11 @@ const skills = [
     category: ['IDE', 'Backend Development'],
   },
   {
+    title: 'Toad',
+    competency: 5,
+    category: ['Tools', 'Backend Development'],
+  },
+  {
     title: 'Payment Integration',
     competency: 4,
     category: ['Frontend Development', 'Mobile App Development'],
@@ -251,6 +266,11 @@ const skills = [
   },
   {
     title: 'Github',
+    competency: 5,
+    category: ['Tools'],
+  },
+  {
+    title: 'GitLab',
     competency: 5,
     category: ['Tools'],
   },
