@@ -95,11 +95,6 @@ const skills = [
     category: ['Framework', 'Backend Development'],
   },
   {
-    title: 'Hapi.js',
-    competency: 5,
-    category: ['Framework', 'Backend Development'],
-  },
-  {
     title: 'FastApi',
     competency: 4,
     category: ['Framework', 'Backend Development'],
@@ -255,11 +250,6 @@ const skills = [
     category: ['IDE'],
   },
   {
-    title: 'Toad',
-    competency: 5,
-    category: ['Tools', 'Backend Development'],
-  },
-  {
     title: 'Payment Integration',
     competency: 5,
     category: ['Frontend Development', 'Mobile App Development'],
@@ -315,11 +305,6 @@ const skills = [
     category: ['Machine Learning', 'Backend Development'],
   },
   {
-    title: 'Angular',
-    competency: 5,
-    category: ['Framework', 'Frontend Development'],
-  },
-  {
     title: 'TypeScript',
     competency: 4,
     category: ['Frontend Development'],
@@ -346,7 +331,7 @@ const skills = [
   },
   {
     title: 'Selenium ',
-    competency: 5,
+    competency: 3,
     category: ['Tools'],
   },
   {
