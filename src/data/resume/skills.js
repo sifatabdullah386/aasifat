@@ -40,6 +40,11 @@ const skills = [
     category: ['Databases', 'Backend Development'],
   },
   {
+    title: 'Postgres',
+    competency: 5,
+    category: ['Databases', 'Backend Development'],
+  },
+  {
     title: 'Oracle',
     competency: 5,
     category: ['Databases', 'Backend Development'],
@@ -90,6 +95,11 @@ const skills = [
     category: ['Framework', 'Backend Development'],
   },
   {
+    title: 'Hapi.js',
+    competency: 5,
+    category: ['Framework', 'Backend Development'],
+  },
+  {
     title: 'FastApi',
     competency: 4,
     category: ['Framework', 'Backend Development'],
@@ -125,33 +135,13 @@ const skills = [
     category: ['Backend Development'],
   },
   {
-    title: 'Microservices',
-    competency: 5,
-    category: ['Backend Development'],
+    title: 'Express.js',
+    competency: 1,
+    category: ['Framework', 'Backend Development'],
   },
   {
-    title: 'Kafka',
+    title: 'Next.JS',
     competency: 3,
-    category: ['Backend Development'],
-  },
-  {
-    title: 'RabbitMQ',
-    competency: 3,
-    category: ['Backend Development'],
-  },
-  {
-    title: 'Redis',
-    competency: 3,
-    category: ['Backend Development'],
-  },
-  {
-    title: 'node.js',
-    competency: 3,
-    category: ['Frontend Development', 'Backend Development'],
-  },
-  {
-    title: 'Bootsrap',
-    competency: 5,
     category: ['Framework', 'Frontend Development'],
   },
   {
@@ -178,6 +168,16 @@ const skills = [
     title: 'React',
     competency: 3,
     category: ['Library', 'Frontend Development'],
+  },
+  {
+    title: 'Angular',
+    competency: 3,
+    category: ['Framework', 'Frontend Development'],
+  },
+  {
+    title: 'Jasper',
+    competency: 3,
+    category: ['Tools'],
   },
   {
     title: 'MP Android Chart',
@@ -253,6 +253,11 @@ const skills = [
     title: 'Toad',
     competency: 5,
     category: ['IDE'],
+  },
+  {
+    title: 'Toad',
+    competency: 5,
+    category: ['Tools', 'Backend Development'],
   },
   {
     title: 'Payment Integration',

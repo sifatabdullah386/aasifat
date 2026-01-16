@@ -15,6 +15,19 @@ const projects = [
       '4Sale & Buy is an online marketplace where users can buy and sell a wide variety of products, including vehicles, properties, pets, services, and more. The platform offers an easy-to-use interface for posting and browsing ads, making it easy to connect buyers with sellers in a local community.',
   },
   {
+    title: 'Automated BR Challan',
+    subtitle: 'Based on airport baggage tax collection application',
+    category: ['Backend Development', 'Frontend Development'],
+    technology: ['Angular', 'Tailwind', 'Hapi', 'Jasper', 'Material UI/UX', 'Node.js', 'Postgres', 'Cypress', 'Nginx', 'Jenkins', 'RESTful'],
+    link: '',
+    image: '/images/projects/automated_br_challan.png',
+    date: '2024-12-29',
+    workedfor: 'Bangladesh Customs',
+    workedurl: 'https://customs.gov.bd/index.jsf',
+    desc:
+      'The Automated BR Challan system is an advanced digital platform designed to automate the collection of airport duties and taxes on goods carried by travelers. It integrates seamlessly with existing customs operations, databases, and payment gateways to ensure efficient and accurate processing. The system replaces manual processes with automated workflows, enhancing transparency,traceability, and compliance with regulatory requirements.',
+  },
+  {
     title: 'Easy2Manage',
     subtitle: 'Effortless Property Management, Your Trusted Partner in Landlord Services',
     category: ['Android App Development'],
