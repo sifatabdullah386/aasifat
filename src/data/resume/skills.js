@@ -1,27 +1,12 @@
 const skills = [
   {
-    title: 'Python',
-    competency: 5,
-    category: ['Languages', 'Machine Learning', 'Data Science'],
-  },
-  {
-    title: 'Java',
-    competency: 5,
-    category: ['Languages', 'Mobile App Development'],
-  },
-  {
     title: 'C',
     competency: 5,
     category: ['Languages'],
   },
   {
-    title: 'Kotlin',
-    competency: 4,
-    category: ['Languages', 'Mobile App Development'],
-  },
-  {
-    title: 'Dart',
-    competency: 2,
+    title: 'Java',
+    competency: 5,
     category: ['Languages', 'Mobile App Development'],
   },
   {
@@ -31,13 +16,23 @@ const skills = [
   },
   {
     title: 'Javascript',
-    competency: 4,
+    competency: 5,
     category: ['Languages', 'Frontend Development'],
+  },
+  {
+    title: 'Kotlin',
+    competency: 3,
+    category: ['Languages', 'Mobile App Development'],
+  },
+  {
+    title: 'Python',
+    competency: 5,
+    category: ['Languages', 'Machine Learning', 'Backend Development'],
   },
   {
     title: 'MATLAB',
     competency: 4,
-    category: ['Languages'],
+    category: ['Languages', 'Machine Learning'],
   },
   {
     title: 'MySQL',
@@ -46,17 +41,17 @@ const skills = [
   },
   {
     title: 'Oracle',
-    competency: 3,
+    competency: 5,
     category: ['Databases', 'Backend Development'],
   },
   {
     title: 'SQL Server',
-    competency: 1,
+    competency: 5,
     category: ['Databases', 'Backend Development'],
   },
   {
-    title: 'MongoDB',
-    competency: 4,
+    title: 'PostgreSQL',
+    competency: 5,
     category: ['Databases', 'Backend Development'],
   },
   {
@@ -67,22 +62,17 @@ const skills = [
   {
     title: 'Firebase',
     competency: 4,
-    category: ['Databases', 'Frontend Development', 'Mobile App Development'],
-  },
-  {
-    title: 'Room',
-    competency: 5,
     category: ['Databases', 'Mobile App Development'],
   },
   {
-    title: 'Flutter',
+    title: 'Room',
     competency: 3,
-    category: ['Framework', 'Mobile App Development'],
+    category: ['Databases', 'Mobile App Development'],
   },
   {
-    title: 'Django',
-    competency: 5,
-    category: ['Framework', 'Backend Development'],
+    title: 'Vector DB',
+    competency: 4,
+    category: ['Databases', 'Backend Development'],
   },
   {
     title: 'Laravel',
@@ -90,29 +80,84 @@ const skills = [
     category: ['Framework', 'Backend Development'],
   },
   {
-    title: 'Bootsrap',
+    title: 'Django',
+    competency: 5,
+    category: ['Framework', 'Backend Development'],
+  },
+  {
+    title: 'Hapi.js',
+    competency: 5,
+    category: ['Framework', 'Backend Development'],
+  },
+  {
+    title: 'FastApi',
     competency: 4,
+    category: ['Framework', 'Backend Development'],
+  },
+  {
+    title: 'REST',
+    competency: 5,
+    category: ['Backend Development'],
+  },
+  {
+    title: 'gRPC',
+    competency: 3,
+    category: ['Backend Development'],
+  },
+  {
+    title: 'GraphQL',
+    competency: 3,
+    category: ['Backend Development'],
+  },
+  {
+    title: 'Oauth2',
+    competency: 5,
+    category: ['Backend Development'],
+  },
+  {
+    title: 'Prisma ',
+    competency: 5,
+    category: ['Backend Development'],
+  },
+  {
+    title: 'JWT',
+    competency: 5,
+    category: ['Backend Development'],
+  },
+  {
+    title: 'Microservices',
+    competency: 5,
+    category: ['Backend Development'],
+  },
+  {
+    title: 'Kafka',
+    competency: 3,
+    category: ['Backend Development'],
+  },
+  {
+    title: 'RabbitMQ',
+    competency: 3,
+    category: ['Backend Development'],
+  },
+  {
+    title: 'Redis',
+    competency: 3,
+    category: ['Backend Development'],
+  },
+  {
+    title: 'node.js',
+    competency: 3,
+    category: ['Frontend Development', 'Backend Development'],
+  },
+  {
+    title: 'Bootsrap',
+    competency: 5,
     category: ['Framework', 'Frontend Development'],
   },
   {
     title: 'Tailwind',
-    competency: 1,
+    competency: 5,
     category: ['Framework', 'Frontend Development'],
-  },
-  {
-    title: 'Express.js',
-    competency: 1,
-    category: ['Framework', 'Backend Development'],
-  },
-  {
-    title: 'Next.JS',
-    competency: 3,
-    category: ['Framework', 'Frontend Development'],
-  },
-  {
-    title: 'Jetpack Compose',
-    competency: 3,
-    category: ['Framework', 'Mobile App Development'],
   },
   {
     title: 'HTML + SASS/SCSS/CSS',
@@ -141,17 +186,17 @@ const skills = [
   },
   {
     title: 'Data Binding',
-    competency: 4,
-    category: ['Mobile App Development'],
+    competency: 5,
+    category: ['Mobile App Development', 'Frontend Development'],
   },
   {
     title: 'View Binding',
-    competency: 4,
-    category: ['Mobile App Development'],
+    competency: 5,
+    category: ['Mobile App Development', 'Frontend Development'],
   },
   {
     title: 'Dagger Hilt',
-    competency: 2,
+    competency: 5,
     category: ['Library', 'Mobile App Development'],
   },
   {
@@ -177,77 +222,102 @@ const skills = [
   {
     title: 'Android Studio',
     competency: 5,
-    category: ['IDE', 'Mobile App Development'],
+    category: ['IDE'],
   },
   {
     title: 'VS Code',
     competency: 5,
-    category: ['IDE', 'Mobile App Development', 'Frontend Development'],
+    category: ['IDE'],
   },
   {
     title: 'Pycharm',
     competency: 5,
-    category: ['IDE', 'Backend Development', 'Machine Learning', 'Data Science'],
+    category: ['IDE'],
   },
   {
     title: 'Phpstorm',
     competency: 5,
-    category: ['IDE', 'Backend Development'],
+    category: ['IDE'],
+  },
+  {
+    title: 'Cursor',
+    competency: 5,
+    category: ['IDE'],
+  },
+  {
+    title: 'pgAdmin4',
+    competency: 5,
+    category: ['IDE'],
+  },
+  {
+    title: 'Toad',
+    competency: 5,
+    category: ['IDE'],
   },
   {
     title: 'Payment Integration',
-    competency: 4,
+    competency: 5,
     category: ['Frontend Development', 'Mobile App Development'],
   },
   {
     title: 'Numpy',
-    competency: 4,
-    category: ['Library', 'Machine Learning', 'Data Science'],
+    competency: 5,
+    category: ['Library', 'Machine Learning'],
   },
   {
     title: 'Tensorflow + Keras',
-    competency: 1,
-    category: ['Machine Learning', 'Data Science'],
+    competency: 5,
+    category: ['Machine Learning'],
   },
   {
     title: 'PyTorch',
-    competency: 1,
-    category: ['Machine Learning', 'Data Science'],
-  },
-  {
-    title: 'Data Visualization',
-    competency: 1,
-    category: ['Machine Learning', 'Data Science'],
+    competency: 5,
+    category: ['Machine Learning'],
   },
   {
     title: 'Pandas',
-    competency: 1,
-    category: ['Library', 'Machine Learning', 'Data Science'],
+    competency: 5,
+    category: ['Library', 'Machine Learning'],
   },
   {
     title: 'Matplotlib',
-    competency: 3,
-    category: ['Library', 'Machine Learning', 'Data Science'],
+    competency: 5,
+    category: ['Library', 'Machine Learning'],
   },
   {
     title: 'Seaborn',
-    competency: 1,
-    category: ['Library', 'Machine Learning', 'Data Science'],
+    competency: 5,
+    category: ['Library', 'Machine Learning'],
   },
   {
     title: 'SciPy',
-    competency: 1,
-    category: ['Library', 'Machine Learning', 'Data Science'],
+    competency: 3,
+    category: ['Library', 'Machine Learning'],
   },
   {
     title: 'Scikit-Learn',
-    competency: 1,
-    category: ['Machine Learning', 'Data Science'],
+    competency: 4,
+    category: ['Machine Learning'],
   },
   {
-    title: 'Node.JS',
+    title: 'LLM',
+    competency: 4,
+    category: ['Machine Learning'],
+  },
+  {
+    title: 'RAG',
+    competency: 4,
+    category: ['Machine Learning', 'Backend Development'],
+  },
+  {
+    title: 'Angular',
     competency: 5,
-    category: ['Tools', 'Frontend Development'],
+    category: ['Framework', 'Frontend Development'],
+  },
+  {
+    title: 'TypeScript',
+    competency: 4,
+    category: ['Frontend Development'],
   },
   {
     title: 'Github',
@@ -255,7 +325,27 @@ const skills = [
     category: ['Tools'],
   },
   {
+    title: 'GitLab',
+    competency: 5,
+    category: ['Tools'],
+  },
+  {
     title: 'Postman',
+    competency: 5,
+    category: ['Tools'],
+  },
+  {
+    title: 'Swagger ',
+    competency: 5,
+    category: ['Tools'],
+  },
+  {
+    title: 'Selenium ',
+    competency: 5,
+    category: ['Tools'],
+  },
+  {
+    title: 'Cypress ',
     competency: 5,
     category: ['Tools'],
   },
@@ -270,19 +360,59 @@ const skills = [
     category: ['Tools'],
   },
   {
-    title: 'Git',
+    title: 'Linux',
     competency: 5,
-    category: ['Tools'],
+    category: ['DevOps'],
+  },
+  {
+    title: 'Docker',
+    competency: 5,
+    category: ['DevOps'],
   },
   {
     title: 'Kubernetes',
-    competency: 1,
-    category: ['Tools'],
+    competency: 4,
+    category: ['DevOps'],
+  },
+  {
+    title: 'AWS/Azure',
+    competency: 3,
+    category: ['DevOps'],
+  },
+  {
+    title: 'CI/CD Pipeling',
+    competency: 5,
+    category: ['DevOps'],
+  },
+  {
+    title: 'Github Actions',
+    competency: 5,
+    category: ['DevOps'],
+  },
+  {
+    title: 'Apache',
+    competency: 5,
+    category: ['DevOps'],
+  },
+  {
+    title: 'Nginx',
+    competency: 5,
+    category: ['DevOps'],
+  },
+  {
+    title: 'Gitlab CI',
+    competency: 5,
+    category: ['DevOps'],
+  },
+  {
+    title: 'Jenkins',
+    competency: 3,
+    category: ['DevOps'],
   },
   {
     title: 'Bash',
-    competency: 2,
-    category: ['Tools'],
+    competency: 5,
+    category: ['DevOps'],
   },
 ].map((skill) => ({ ...skill, category: skill.category.sort() }));
 
