@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/sifatabdullah386/aasifat/static/css/main.dfa4e4cb.css",
-    "main.js": "/sifatabdullah386/aasifat/static/js/main.9e3a9a60.js",
-    "static/js/818.43756632.chunk.js": "/sifatabdullah386/aasifat/static/js/818.43756632.chunk.js",
-    "static/js/996.1026ab45.chunk.js": "/sifatabdullah386/aasifat/static/js/996.1026ab45.chunk.js",
-    "static/js/900.b0a599e8.chunk.js": "/sifatabdullah386/aasifat/static/js/900.b0a599e8.chunk.js",
-    "static/js/798.db8df656.chunk.js": "/sifatabdullah386/aasifat/static/js/798.db8df656.chunk.js",
-    "static/js/295.7325bc4e.chunk.js": "/sifatabdullah386/aasifat/static/js/295.7325bc4e.chunk.js",
-    "static/js/147.0dd6b52f.chunk.js": "/sifatabdullah386/aasifat/static/js/147.0dd6b52f.chunk.js",
-    "static/js/27.aa5afd1b.chunk.js": "/sifatabdullah386/aasifat/static/js/27.aa5afd1b.chunk.js",
-    "static/js/583.777dd88d.chunk.js": "/sifatabdullah386/aasifat/static/js/583.777dd88d.chunk.js",
-    "index.html": "/sifatabdullah386/aasifat/index.html",
-    "static/media/about.md": "/sifatabdullah386/aasifat/static/media/about.2bd97a9c6c13a4a9533b.md",
-    "main.dfa4e4cb.css.map": "/sifatabdullah386/aasifat/static/css/main.dfa4e4cb.css.map",
-    "main.9e3a9a60.js.map": "/sifatabdullah386/aasifat/static/js/main.9e3a9a60.js.map",
-    "818.43756632.chunk.js.map": "/sifatabdullah386/aasifat/static/js/818.43756632.chunk.js.map",
-    "996.1026ab45.chunk.js.map": "/sifatabdullah386/aasifat/static/js/996.1026ab45.chunk.js.map",
-    "900.b0a599e8.chunk.js.map": "/sifatabdullah386/aasifat/static/js/900.b0a599e8.chunk.js.map",
-    "798.db8df656.chunk.js.map": "/sifatabdullah386/aasifat/static/js/798.db8df656.chunk.js.map",
-    "295.7325bc4e.chunk.js.map": "/sifatabdullah386/aasifat/static/js/295.7325bc4e.chunk.js.map",
-    "147.0dd6b52f.chunk.js.map": "/sifatabdullah386/aasifat/static/js/147.0dd6b52f.chunk.js.map",
-    "583.777dd88d.chunk.js.map": "/sifatabdullah386/aasifat/static/js/583.777dd88d.chunk.js.map"
+    "main.css": "/aasifat/static/css/main.dfa4e4cb.css",
+    "main.js": "/aasifat/static/js/main.d3eacdb9.js",
+    "static/js/818.43756632.chunk.js": "/aasifat/static/js/818.43756632.chunk.js",
+    "static/js/996.1026ab45.chunk.js": "/aasifat/static/js/996.1026ab45.chunk.js",
+    "static/js/900.b0a599e8.chunk.js": "/aasifat/static/js/900.b0a599e8.chunk.js",
+    "static/js/798.408b07cc.chunk.js": "/aasifat/static/js/798.408b07cc.chunk.js",
+    "static/js/295.7325bc4e.chunk.js": "/aasifat/static/js/295.7325bc4e.chunk.js",
+    "static/js/147.0dd6b52f.chunk.js": "/aasifat/static/js/147.0dd6b52f.chunk.js",
+    "static/js/27.aa5afd1b.chunk.js": "/aasifat/static/js/27.aa5afd1b.chunk.js",
+    "static/js/583.777dd88d.chunk.js": "/aasifat/static/js/583.777dd88d.chunk.js",
+    "index.html": "/aasifat/index.html",
+    "static/media/about.md": "/aasifat/static/media/about.2bd97a9c6c13a4a9533b.md",
+    "main.dfa4e4cb.css.map": "/aasifat/static/css/main.dfa4e4cb.css.map",
+    "main.d3eacdb9.js.map": "/aasifat/static/js/main.d3eacdb9.js.map",
+    "818.43756632.chunk.js.map": "/aasifat/static/js/818.43756632.chunk.js.map",
+    "996.1026ab45.chunk.js.map": "/aasifat/static/js/996.1026ab45.chunk.js.map",
+    "900.b0a599e8.chunk.js.map": "/aasifat/static/js/900.b0a599e8.chunk.js.map",
+    "798.408b07cc.chunk.js.map": "/aasifat/static/js/798.408b07cc.chunk.js.map",
+    "295.7325bc4e.chunk.js.map": "/aasifat/static/js/295.7325bc4e.chunk.js.map",
+    "147.0dd6b52f.chunk.js.map": "/aasifat/static/js/147.0dd6b52f.chunk.js.map",
+    "583.777dd88d.chunk.js.map": "/aasifat/static/js/583.777dd88d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dfa4e4cb.css",
-    "static/js/main.9e3a9a60.js"
+    "static/js/main.d3eacdb9.js"
   ]
 }
