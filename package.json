@@ -1,11 +1,11 @@
 {
   "name": "aasifat",
   "version": "4.0.0",
-  "homepage": "https://github.io",
+  "homepage": "https://github.com/sifatabdullah386/aasifat",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com"
+    "url": "https://github.com/sifatabdullah386/aasifat"
   },
   "engines": {
     "node": ">=16.x"
