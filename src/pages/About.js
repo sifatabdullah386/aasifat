@@ -36,7 +36,7 @@ const About = () => {
           <section>
             <h2>Intro</h2>
             <p>
-              Hi, I am an IT professional with 4+ years of experience in software engineering.
+              Hi, I am an IT professional with 6+ years of experience in software engineering.
               I graduated from <a href="https://jkkniu.edu.bd/" target="_blank" rel="noopener noreferrer"> Jatiya Kabi Kazi Nazrul Islam University, Mymensingh, Bangladesh. </a> ,
               and I am currently working as Senior Officer-IT (AP) at <a href="https://www.jb.com.bd/" target="_blank" rel="noopener noreferrer"> Janata Bank PLC. </a>,
               where I manage and enhance banking applications while driving IT solutions across
@@ -57,6 +57,7 @@ const About = () => {
               <li><a href="https://youtube.com/" target="_blank" rel="noopener noreferrer"> Videography </a></li>
               <li>Graphic Design</li>
               <li>Cooking</li>
+              <li>AI Enthusiasts</li>
             </ul>
             <h2>I Dream Of</h2>
             <ul>

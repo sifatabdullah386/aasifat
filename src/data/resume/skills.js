@@ -40,7 +40,7 @@ const skills = [
     category: ['Databases', 'Backend Development'],
   },
   {
-    title: 'Postgres',
+    title: 'Redis',
     competency: 5,
     category: ['Databases', 'Backend Development'],
   },
@@ -77,7 +77,7 @@ const skills = [
   {
     title: 'Vector DB',
     competency: 4,
-    category: ['Databases', 'Backend Development'],
+    category: ['Databases', 'Backend Development', 'Machine Learning'],
   },
   {
     title: 'Laravel',
@@ -120,12 +120,22 @@ const skills = [
     category: ['Backend Development'],
   },
   {
+    title: 'JWT',
+    competency: 5,
+    category: ['Backend Development'],
+  },
+  {
+    title: 'RBAC',
+    competency: 5,
+    category: ['Backend Development'],
+  },
+  {
     title: 'Prisma ',
     competency: 5,
     category: ['Backend Development'],
   },
   {
-    title: 'JWT',
+    title: 'Sequilize',
     competency: 5,
     category: ['Backend Development'],
   },
