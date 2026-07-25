@@ -1,6 +1,6 @@
 # Intro
 
-Hi, I'm an IT professional with 4+ years of experience in software engineering.
+Hi, I'm an IT professional with 6+ years of experience in software engineering.
 I graduated from [Jatiya Kabi Kazi Nazrul University, Trishal, Mymensingh, Bangladesh](https://jkkniu.edu.bd/),
 and I am currently working as Senior Officer-IT (AP) at [Janata Bank PLC](https://www.jb.com.bd/),
 where I manage and enhance banking applications while driving IT solutions across
@@ -19,6 +19,7 @@ through a collaborative, solution-driven approach with high social impact. If yo
 - [Videography](https://youtube.com/)
 - Graphic Design
 - Cooking
+- AI Enthusiasts
 
 # I Dream Of
 
